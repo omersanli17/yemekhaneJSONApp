@@ -1,5 +1,9 @@
 [
 {
+  "yemekListesi": "MERCİMEK ÇORBA, KIYMALI KABAK MUSAKKA, SOSLU MAKARNA, KASE YOĞURT",
+  "yemekTarihi": "27.09.2022"
+},
+{
   "yemekListesi": "YOĞURTLU YARMA ÇORBA, FIRIN KÖFTE (PİRİNÇ PİLAVI), Z.Y. BARBUNYA PİLAKİ, MEYVE",
   "yemekTarihi": "28.09.2022"
 },
@@ -10,6 +14,5 @@
 {
   "yemekListesi": "DOMATES ÇORBA, PİLİÇ KIZARTMA, PİRİNÇ PİLAVI, AYRAN",
   "yemekTarihi": "30.09.2022"
-},
-
+}
 ]
