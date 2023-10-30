@@ -1,90 +1,34 @@
 [
 {
-  "yemekListesi": "DOMATES ÇORBA, TEPSİ KÖFTE, Z.Y PIRASA,KASE YOĞURT",
-  "yemekTarihi": "01.12.2022"
+  "yemekListesi": "YOĞURTLU YARMA ÇORBA, TEPSİ KÖFTE, BULGUR (TAVUKLU PİRİNÇ) PİLAVI, MEYVE",
+  "yemekTarihi": "01.11.2023"
 },
 {
-  "yemekListesi": "MERCİMEK ÇORBA, MANTARLI ÇOBAN KAVURMA, PEYNİRLİ MAKARNA, PUDİNG",
-  "yemekTarihi": "02.12.2022"
+  "yemekListesi": "SEBZE ÇORBA, KIYMALI TAZE FASULYE(SEBZE KÖFTE), SOSLU MAKARNA, AYRAN(KASE YOĞURT)",
+  "yemekTarihi": "02.11.2023"
 },
 {
-  "yemekListesi": "TARHANA ÇORBA, KIYMALI ISPANAK, SOSLU MAKARNA, KASE YOĞURT",
-  "yemekTarihi": "05.12.2022"
+  "yemekListesi": "MANTAR ÇORBA, HİNDİ GÜVEÇ(KIYMALI BEZELYE), HAVUÇ BORONA(BULGUR PİLAVI), KEMALPAŞA",
+  "yemekTarihi": "03.11.2023"
 },
 {
-  "yemekListesi": "YAYLA ÇORBA, HİNDİ SEBZELİ KEBAP, BULGUR PİLAVI, MEYVE SUYU",
-  "yemekTarihi": "06.12.2022"
+  "yemekListesi": "SARAY ÇORBA, KIYMALI ISPANAK (YUMURTA), RULO BÖREK (SEBZELİ MAKARNA), KASE YOĞURT",
+  "yemekTarihi": "06.11.2023"
 },
 {
-  "yemekListesi": "ÖZBEK ÇORBA, TAZE FASULYE, ÖZBEK PİLAVI, MEYVE",
-  "yemekTarihi": "07.12.2022"
+  "yemekListesi": "TOYGA ÇORBA, PİLİÇ SOTE, PEYNİRLİ ERİŞTE MAKARNA, MEVSİM SALATA, MEYVE(PUDİNG)",
+  "yemekTarihi": "07.11.2023"
 },
 {
-  "yemekListesi": "SARAY ÇORBA, ET DÖNER, PİRİNÇ PİLAVI, AYRAN, PİRİNÇ PİLAVI",
-  "yemekTarihi": "08.12.2022"
+  "yemekListesi": "MERCİMEK ÇORBA, KIYMALI KAPUSKA, ŞEHRİYE (PİRİNÇ) PİLAVI, AYRA(MEYVE)",
+  "yemekTarihi": "08.11.2023"
 },
 {
-  "yemekListesi": "EZOGELİN ÇORBA, FIRIN USKUMRU, MEVSİM SALATA, TULUMBA",
-  "yemekTarihi": "09.12.2022"
+  "yemekListesi": "ŞEHRİYE ÇORBA, KIR KÖFTESİ, BULGUR PİLAVI, MEYVE",
+  "yemekTarihi": "09.11.2023"
 },
 {
-  "yemekListesi": "MERCİMEK ÇORBA, PİLİÇ GRİLL, ŞEHRİYE PİLAVI, MEYVE",
-  "yemekTarihi": "12.12.2022"
-},
-{
-  "yemekListesi": "MARAŞ ÇORBA, KIYMALI KARNABAHAR, PEYNİRLİ MAKARNA, AYRAN",
-  "yemekTarihi": "13.12.2022"
-},
-{
-  "yemekListesi": "ERİŞTELİ YEŞİL MERCİMEK, KIR KÖFTESİ (PİRİNÇ PİLAVI), Z.Y TEPSİ KABAĞI, KASE YOĞURT",
-  "yemekTarihi": "14.12.2022"
-},
-{
-  "yemekListesi": "YAYLA ÇORBA, HİNDİ SOTE, BULGUR PİLAVI, KREM ŞOKOLA",
-  "yemekTarihi": "15.12.2022"
-},
-{
-  "yemekListesi": "SEBZE ÇORBA, DANA HAŞLAMA, PİRİNÇ PİLAVI, MEYVE",
-  "yemekTarihi": "16.12.2022"
-},
-{
-  "yemekListesi": "EZOGELİN ÇORBA, TEPSİ KÖFTE, SOSLU MAKARNA, KASE YOĞURT",
-  "yemekTarihi": "19.12.2022"
-},
-{
-  "yemekListesi": "DÜĞÜN ÇORBA, ETLİ NOHUT, PİRİNÇ PİLAVI, TURŞU",
-  "yemekTarihi": "20.12.2022"
-},
-{
-  "yemekListesi": "TOYGA ÇORBA, HİNDİ ÇOBAN KAVURMA (SEBZE YEMEĞİ), ŞEHRİYE PİLAVI, MEYVE",
-  "yemekTarihi": "21.12.2022"
-},
-{
-  "yemekListesi": "DOMATES ÇORBA, KIYMALI YUMURTA, SEBZELİ MAKARNA, AYRAN",
-  "yemekTarihi": "22.12.2022"
-},
-{
-  "yemekListesi": "BEZELYE ÇORBA, PİLİÇ SOTE, BULGUR PİLAVI, PUDİNG",
-  "yemekTarihi": "23.12.2022"
-},
-{
-  "yemekListesi": "TARHANA ÇORBA, ELBASAN TAVA, Z.Y MANTAR PİLAKİ, AYRAN",
-  "yemekTarihi": "26.12.2022"
-},
-{
-  "yemekListesi": "MARAŞ ÇORBA, FIRIN BAGET, BULGUR PİLAVI, MEYVE",
-  "yemekTarihi": "27.12.2022"
-},
-{
-  "yemekListesi": "MERCİMEK ÇORBA, HİNDİ TAVA (SEBZE GRATEN), MEVSİM SALATA, KEMALPAŞA TATLISI",
-  "yemekTarihi": "28.12.2022"
-},
-{
-  "yemekListesi": "YARMA ÇORBA, BARBUNYA YEMEĞİ, TAVUKLU PİRİNÇ PİLAVI, TURŞU",
-  "yemekTarihi": "29.12.2022"
-},
-{
-  "yemekListesi": "MANTAR ÇORBA, HİNDİ ELBASAN TAVA, BÖRÜLCE SALATASI, PUDİNG",
-  "yemekTarihi": "13.06.2023"
+  "yemekListesi": "TARHANA ÇORBA, KURU FASULYE, TAVUKLU PİRİNÇ PİLAVI, İRMİK HELVA",
+  "yemekTarihi": "10.11.2023"
 }
 ]
